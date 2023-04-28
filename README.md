@@ -6,4 +6,5 @@ Current stack
 - React
 - Tailwind
 - Typescript
+- Storybook component library
   
